@@ -71,7 +71,7 @@ SafeTune provides a separate steering evaluation; its alpha values are not inter
 |---|---|---|
 | Base and target model | `Qwen/Qwen2.5-1.5B-Instruct` | Quantization, revision and actual license: **Apache License 2.0**. |
 | Hinglish generation and LLM judge | `Qwen/Qwen2.5-3B-Instruct` | Hinglish generation has a rule-based fallback; the judge uses the same model family. Revision and license: **Qwen Research license**. |
-| Translation | `facebook/nllb-200-distilled-600M` | Hindi, Marathi and Tamil. License: ** CC-BY-NC-4.0**. |
+| Translation | `facebook/nllb-200-distilled-600M` | Hindi, Marathi and Tamil. License: **CC-BY-NC-4.0**. |
 | Fine-tuning | Hugging Face Transformers and PEFT | Record tested versions, revisions and applicable licenses. |
 
 ## Datasets, benchmarks and licenses
